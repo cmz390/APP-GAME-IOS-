@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "56140FF3CD182C7A1EFD84302E917EC835619108",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1135ED0C1531C9CEB4F31DB913ACF257517329D3" : 9223372036854775807,
+    "56140FF3CD182C7A1EFD84302E917EC835619108" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "765476D2-021E-4C7B-95C7-DD8405B6F439",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1135ED0C1531C9CEB4F31DB913ACF257517329D3" : "",
+    "56140FF3CD182C7A1EFD84302E917EC835619108" : "P07-chen-liu-hu\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "p07-chen-liu-hu",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "p07-chen-liu-hu.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/jliu173\/p01-liu.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1135ED0C1531C9CEB4F31DB913ACF257517329D3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/cmz390\/p07-chen-liu-hu.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "56140FF3CD182C7A1EFD84302E917EC835619108"
+    }
+  ]
+}
